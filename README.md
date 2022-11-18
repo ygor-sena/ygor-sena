@@ -18,7 +18,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight)
 
 ### 😂 Random Dev Meme
-![image](https://user-images.githubusercontent.com/102881479/200050901-b3fb67fa-17eb-4854-94f0-99534ff97f25.png)
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ygor-sena&icon=9&color=4)](https://visitcount.itsvg.in)
