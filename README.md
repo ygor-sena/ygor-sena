@@ -46,6 +46,5 @@
 <p align="center">
     <img alt="ygorsena's visitors" src="https://komarev.com/ghpvc/?username=ygorsena&color=blue&style=flat&label=visitors" />	
 </p>
-[![](https://visitcount.itsvg.in/api?id=ygor-sena&icon=9&color=4)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
