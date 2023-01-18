@@ -44,7 +44,7 @@
 
 ---
 <p align="center">
-    <img alt="ygorsena's visitors" src="https://komarev.com/ghpvc/?username=ygorsena&color=blue&style=flat&label=visitors" />	
+    <img alt="ygorsena's visitors" src="https://komarev.com/ghpvc/?username=ygorsena&color=blue&style=for-the-badge&label=visitors" />	
 </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
