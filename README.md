@@ -21,21 +21,21 @@
 
 ## 42 Cursus Syllabus
 
-- [basecamp](https://github.com/ygor-sena/42sp-piscine) → fundamentals of Shell Script and C Programming
+- [basecamp](https://github.com/ygor-sena/42sp-piscine) → fundamentals of Shell Script and C Programming.
 
 ### Phase 1
 
-- [libft](https://github.com/ygor-sena/42cursus-libft) → My very own C library! It reproduces some of C libraries
-- [get_next_line](https://github.com/ygor-sena/42cursus-get-next-line) → Returns a line read from file descriptors
-- [ft_printf](https://github.com/ygor-sena/42cursus-ft-printf) → My very own printf implementation!
-- [born2berrot](https://github.com/ygor-sena/42cursus-born2beroot) → Set up a Linux Server on a virtual machine
-- [fdf](https://github.com/ygor-sena/42cursus-FdF) → A wireframe viewer for 3D maps using MinilibX
-- [minitalk](https://github.com/ygor-sena/42cursus-minitalk) → Data exchange programs using UNIX signals
+- [libft](https://github.com/ygor-sena/42cursus-libft) → My very own C library! It reproduces some of C libraries.
+- [get_next_line](https://github.com/ygor-sena/42cursus-get-next-line) → Returns a line read from file descriptors.
+- [ft_printf](https://github.com/ygor-sena/42cursus-ft-printf) → My very own printf implementation!.
+- [born2berrot](https://github.com/ygor-sena/42cursus-born2beroot) → Set up a Linux Server on a virtual machine.
+- [fdf](https://github.com/ygor-sena/42cursus-FdF) → A wireframe viewer for 3D maps using MinilibX.
+- [minitalk](https://github.com/ygor-sena/42cursus-minitalk) → Data exchange programs using UNIX signals.
 
 ### Phase 2
 
-- [push_swap](https://github.com/ygor-sena/42cursus-push-swap) → Implementation of a sorting algorithm to solve a two-stack problem
-- [minishell](https://github.com/ygor-sena/42cursus-minishell) → Our own little Shell based on Bash
+- [push_swap](https://github.com/ygor-sena/42cursus-push-swap) → Implementation of a sorting algorithm to solve a two-stack problem.
+- [minishell](https://github.com/ygor-sena/42cursus-minishell) → Our own little Shell based on Bash.
 
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight)
