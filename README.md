@@ -17,6 +17,10 @@
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green) ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=Adobe%20InDesign&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=Obsidian&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 
 ## 📊 GitHub Stats:
+[![](https://github-readme-stats.vercel.app/api?username=ygor-sena&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=tokyonight)](https://github.com/ygor-sena?tab=repositories)
+
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=ygor-sena&layout=compact&hide_border=true&theme=tokyonight)](https://github.com/ygor-sena?tab=repositories)
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ygor-sena&theme=tokyonight&hide_border=false)<br/>
 
 ## 42 Cursus Syllabus
@@ -41,6 +45,9 @@
 ![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight)
 
 ---
+<p align="center">
+    <img alt="ygorsena's visitors" src="https://komarev.com/ghpvc/?username=ygorsena&color=blue&style=flat&label=visitors" />	
+</p>
 [![](https://visitcount.itsvg.in/api?id=ygor-sena&icon=9&color=4)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
