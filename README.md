@@ -18,8 +18,9 @@
 
 ## 📊 GitHub Stats:
 [![](https://github-readme-stats.vercel.app/api?username=ygor-sena&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=tokyonight)](https://github.com/ygor-sena?tab=repositories)
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=ygor-sena&layout=compact&hide_border=true&theme=tokyonight)](https://github.com/ygor-sena?tab=repositories)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ygor-sena&theme=tokyonight&hide_border=true)<br/>
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=ygor-sena&layout=compact&hide_border=true&theme=tokyonight)](https://github.com/ygor-sena?tab=repositories)
+
 
 ## 42 Cursus Syllabus
 
