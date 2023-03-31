@@ -39,6 +39,7 @@
 
 - [push_swap](https://github.com/ygor-sena/42cursus-push-swap) → Implementation of a sorting algorithm to solve a two-stack problem.
 - [minishell](https://github.com/ygor-sena/42cursus-minishell) → Our own little Shell based on Bash.
+- [miniRT](https://github.com/ygor-sena/42-cursus-miniRT) → Ongoing project
 
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight)
