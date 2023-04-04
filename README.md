@@ -40,7 +40,7 @@
 - [push_swap](https://github.com/ygor-sena/42cursus-push-swap) → Implementation of a sorting algorithm to solve a two-stack problem.
 - [minishell](https://github.com/ygor-sena/42cursus-minishell) → Our own little Shell based on Bash.
 - [philosophers](https://github.com/ygor-sena/42cursus-philosophers) → Dining philosophers problem with threads, mutexes and semaphores
-= [netpractice](https://github.com/ygor-sena/42cursus-NetPractice) → Small-scale network configuration with TCP/IP and static routing
+- [netpractice](https://github.com/ygor-sena/42cursus-NetPractice) → Small-scale network configuration with TCP/IP and static routing
 - [miniRT](https://github.com/ygor-sena/42-cursus-miniRT) → Ongoing project
 
 ## ✍️ Random Dev Quote
