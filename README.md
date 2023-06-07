@@ -43,6 +43,9 @@
 - [netpractice](https://github.com/ygor-sena/42cursus-NetPractice) → Small-scale network configuration with TCP/IP and static routing.
 - [miniRT](https://github.com/ygor-sena/42-cursus-miniRT) → Ongoing project
 
+### Phase 3
+
+
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight)
 
