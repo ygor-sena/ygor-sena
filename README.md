@@ -41,9 +41,11 @@
 - [minishell](https://github.com/ygor-sena/42cursus-minishell) → Our own little Shell based on Bash.
 - [philosophers](https://github.com/ygor-sena/42cursus-philosophers) → Dining philosophers problem with threads, mutexes and semaphores.
 - [netpractice](https://github.com/ygor-sena/42cursus-NetPractice) → Small-scale network configuration with TCP/IP and static routing.
-- [miniRT](https://github.com/ygor-sena/42-cursus-miniRT) → Ongoing project
+- [miniRT](https://github.com/ygor-sena/42-cursus-miniRT) → Implementation of ray tracing using Phong algorithm to render simple shapes.
 
 ### Phase 3
+
+- [cpp_modules](https://github.com/ygor-sena/42cursus-cpp-piscine) → Introduction to OOP with C++.
 
 
 ## ✍️ Random Dev Quote
