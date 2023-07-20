@@ -3,7 +3,7 @@
 
 🔭 I’m currently studying at 42 Software Engineer school.<br>
 👯 I’m looking to collaborate on open source and art projects.<br>
-🤝 I’m looking for help with creative programming.<br>
+🤝 I’m looking for help with creative programming and urban data science.<br>
 🌱 I’m currently learning C Language and Shell.<br>
 💬 Ask me about anything! I love to exchange ideas!<br>
 📫 You can reach me out through: ygor.sena@alumni.usp.br<br>
