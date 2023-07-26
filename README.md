@@ -22,7 +22,7 @@
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=ygor-sena&layout=compact&hide_border=true&theme=tokyonight)](https://github.com/ygor-sena?tab=repositories)
 
 
-## 42 Cursus Syllabus
+## 🚀 42 Cursus Syllabus
 
 - [basecamp](https://github.com/ygor-sena/42sp-piscine) → Fundamentals of Shell Script and C Programming.
 
