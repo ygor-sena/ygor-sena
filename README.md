@@ -1,3 +1,6 @@
+
+![](profile-git-animation.gif)
+
 # Welcome! I'm Ygor! 📐✏️👷🏻📸👨🏻‍💻️✍🏻
 ## 💫 About Me:
 
