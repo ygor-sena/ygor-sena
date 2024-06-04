@@ -17,7 +17,7 @@
 ⚡ Fun fact: I completed a 10-day Vipassana Meditation retreat.
 
 ---
-![Static Badge](https://img.shields.io/badge/tech%20stacks-00008b?style=for-the-badge)  
+![Static Badge](https://img.shields.io/badge/tech%20stacks-555555?style=for-the-badge)  
 ![C](https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=white)
@@ -27,17 +27,17 @@
 ![CSS3](https://img.shields.io/badge/css3-0d1117.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-0d1117.svg?style=for-the-badge&logo=javascript&logoColor=white)
 
-![Static Badge](https://img.shields.io/badge/management%20stacks-00008b?style=for-the-badge)  
+![Static Badge](https://img.shields.io/badge/management%20stacks-555555?style=for-the-badge)  
 ![GitHub Project](https://img.shields.io/badge/GitHub%20project-0d1117?style=for-the-badge&logo=github&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian-0d1117?style=for-the-badge&logo=Obsidian&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0d1117?style=for-the-badge&logo=Jira&logoColor=white)
 
-![Static Badge](https://img.shields.io/badge/text%20editors-00008b?style=for-the-badge)  
+![Static Badge](https://img.shields.io/badge/text%20editors-555555?style=for-the-badge)  
 ![VSCode](https://img.shields.io/badge/VSCode-0d1117?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 ![Emacs](https://img.shields.io/badge/Emacs-0d1117?style=for-the-badge&logo=GNU%20Emacs&logoColor=white)
 ![Vim](https://img.shields.io/badge/Vim-0d1117?style=for-the-badge&logo=Vim&logoColor=white)
 
-![Static Badge](https://img.shields.io/badge/creative%20stacks-00008b?style=for-the-badge)  
+![Static Badge](https://img.shields.io/badge/creative%20stacks-555555?style=for-the-badge)  
 ![Figma](https://img.shields.io/badge/Figma-0d1117?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-0d1117?style=for-the-badge&logo=Adobe%20InDesign&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-0d1117?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
