@@ -11,7 +11,7 @@ I am currently learning backend development, data science, and creative programm
 
 - 🌱 Always learning
 - 💻 Software Enginner • Backend • DevOps
-- 📜 Certifications: CLP - C Certified Professional • Scrum Foundation Professional
+- 📜 Certifications on [Credly](https://www.credly.com/users/ygor-sena/badges): CLP - C Certified Professional • Scrum Foundation Professional • 
 - 📐 Architect and Urban Planner
 - 🪁 Hobbies: photography, creative writing and hiking
 - ⚡ Fun fact: I completed a 10-day Vipassana Meditation retreat
@@ -65,10 +65,11 @@ I am currently learning backend development, data science, and creative programm
 ![Static Badge](https://img.shields.io/badge/contact%20me-%23555555?style=for-the-badge)
 [![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=Mail.Ru&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&to=ygor.sena@alumni.usp.br&tf=cm)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ygor-sena)
-[![Credly](https://img.shields.io/badge/Credly-0d1117?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/ygor-sena/badges)
+[![Discord](https://img.shields.io/badge/Discord-0d1117?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/668282062154760198)
+[![Slack](https://img.shields.io/badge/Slack-0d1117?style=for-the-badge&logo=slack&logoColor=white)](https://42born2code.slack.com/app_redirect?channel=U03FZGLSWTU)
 [![Instagram](https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ygorgsena)
-[![Medium](https://img.shields.io/badge/Medium-0d1117?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ygorgsena)
 [![Facebook](https://img.shields.io/badge/Facebook-0d1117?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/ygor.goes.378)
+[![Medium](https://img.shields.io/badge/Medium-0d1117?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ygorgsena)
 
 </div>
 
