@@ -52,7 +52,7 @@
 </div>
 
 ---
-<div align="center">
+<div align="left">
 	
 ![Static Badge](https://img.shields.io/badge/contact%20me-%23555555?style=for-the-badge)
 [![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=Mail.Ru&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&to=ygor.sena@alumni.usp.br&tf=cm)
@@ -65,9 +65,7 @@
 
 
 ---
-<p align="center">
-    <img alt="ygorsena's visitors" src="https://komarev.com/ghpvc/?username=ygorsena&color=blue&style=for-the-badge&label=visitors" />	
-</p>
+<div><p dir="auto"><em><i>Thank you so much for reading! This repository was made with 💚 by <a href="https://www.linkedin.com/in/ygor-sena/">Ygor G. Sena</a>.</em></i></font></div> <div align="right"><img alt="ygorsena's visitors" src="https://komarev.com/ghpvc/?username=ygorsena&color=blue&style=for-the-badge&label=visitors" />	</div></div><div>
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
