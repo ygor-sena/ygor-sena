@@ -51,39 +51,17 @@
 </div>
 
 ---
-
-### 🚀 42 Cursus Syllabus
-- [basecamp](https://github.com/ygor-sena/42sp-piscine) → Fundamentals of Shell Script and C Programming.
-
-### Phase 1
-
-- [libft](https://github.com/ygor-sena/42cursus-libft) → My very own C library! It reproduces some of C libraries.
-- [get_next_line](https://github.com/ygor-sena/42cursus-get-next-line) → Returns a line read from file descriptors.
-- [ft_printf](https://github.com/ygor-sena/42cursus-ft-printf) → My very own printf implementation!.
-- [born2berrot](https://github.com/ygor-sena/42cursus-born2beroot) → Set up a Linux Server on a virtual machine.
-- [fdf](https://github.com/ygor-sena/42cursus-FdF) → A wireframe viewer for 3D maps using MinilibX.
-- [minitalk](https://github.com/ygor-sena/42cursus-minitalk) → Data exchange programs using UNIX signals.
-
-### Phase 2
-
-- [push_swap](https://github.com/ygor-sena/42cursus-push-swap) → Implementation of a sorting algorithm to solve a two-stack problem.
-- [minishell](https://github.com/ygor-sena/42cursus-minishell) → Our own little Shell based on Bash.
-- [philosophers](https://github.com/ygor-sena/42cursus-philosophers) → Dining philosophers problem with threads, mutexes and semaphores.
-- [netpractice](https://github.com/ygor-sena/42cursus-NetPractice) → Small-scale network configuration with TCP/IP and static routing.
-- [miniRT](https://github.com/ygor-sena/42-cursus-miniRT) → Implementation of ray tracing using Phong algorithm to render simple shapes.
-
-### Phase 3
-
-- [cpp_modules](https://github.com/ygor-sena/42cursus-cpp-piscine) → Introduction to OOP with C++.
-- [Inception](https://github.com/ygor-sena/42-Inception) → Orchestration of your own Dockerfiles with Docker Compose.
-
----
-![Static Badge](https://img.shields.io/badge/contact%20me-%230077B5?style=for-the-badge)
+<div align="center">
+	
+![Static Badge](https://img.shields.io/badge/contact%20me-%23555555?style=for-the-badge)
 [![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=Mail.Ru&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&to=ygor.sena@alumni.usp.br&tf=cm)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ygor-sena)
 [![Instagram](https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ygorgsena)
 [![Medium](https://img.shields.io/badge/Medium-0d1117?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ygorgsena)
 [![Facebook](https://img.shields.io/badge/Facebook-0d1117?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/ygor.goes.378)
+
+</div>
+
 
 ---
 <p align="center">
