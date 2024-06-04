@@ -68,7 +68,6 @@ I am currently learning backend development, data science, and creative programm
 [![Discord](https://img.shields.io/badge/Discord-0d1117?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/668282062154760198)
 [![Slack](https://img.shields.io/badge/Slack-0d1117?style=for-the-badge&logo=slack&logoColor=white)](https://42born2code.slack.com/app_redirect?channel=U03FZGLSWTU)
 [![Instagram](https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ygorgsena)
-[![Facebook](https://img.shields.io/badge/Facebook-0d1117?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/ygor.goes.378)
 [![Medium](https://img.shields.io/badge/Medium-0d1117?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ygorgsena)
 
 </div>
