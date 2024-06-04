@@ -27,6 +27,7 @@ I am currently learning backend development, data science, and creative programm
 ![HTML5](https://img.shields.io/badge/html5-0d1117.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-0d1117.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-0d1117.svg?style=for-the-badge&logo=javascript&logoColor=white)
+![Dart](https://img.shields.io/badge/Flutter%20%7C%20Dart-0d1117?style=for-the-badge&logo=flutter&logoColor=white)
 
 ![Static Badge](https://img.shields.io/badge/management%20stacks-555555?style=for-the-badge)  
 ![GitHub Project](https://img.shields.io/badge/GitHub%20project-0d1117?style=for-the-badge&logo=github&logoColor=white)
