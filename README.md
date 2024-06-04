@@ -2,6 +2,9 @@
 ![](profile-git-animation.gif)
 
 ## Welcome! I'm Ygor! 📐✏️👷🏻📸👨🏻‍💻️✍🏻
+
+---
+
 ### 💫 About Me:
 
 🔭 I’m currently studying at 42 Software Engineer school.<br>
@@ -13,8 +16,12 @@
 😄 He/His<br>
 ⚡ Fun fact: I completed a 10-day Vipassana Meditation retreat.
 
+---
+
 ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ygor-sena) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ygorgsena) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ygorgsena) [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/ygor.goes.378)
+
+---
 
 ### 💻 Tech Stack:
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -34,11 +41,13 @@
 ![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=Obsidian&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 
-### 📊 GitHub Stats:
+---
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ygor-sena&langs_count=5&theme=transparent&layout=donut&line_height=50&hide_border=false&title_color=fff&text_color=e6edf3&bg_color=0d1117&chart_width=300" alt="Top Languages" height=210/>
-	<img src="https://github-readme-stats.vercel.app/api?username=ygor-sena&theme=transparent&show_icons=true&layout=compact&line_height=28&title_color=fff&text_color=e6edf3&icon_color=9f9f9f&bg_color=0d1117" alt="Ygor Sena's Github stats" height=210>
+	<img src="https://github-readme-stats.vercel.app/api?username=ygor-sena&theme=transparent&show_icons=true&layout=compact&line_height=25&title_color=fff&text_color=e6edf3&icon_color=9f9f9f&bg_color=0d1117&custom_title=My%20GitHub%20stats%20%26%20most%20used%20languages" alt="Ygor Sena's Github stats" height=200>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ygor-sena&langs_count=5&theme=transparent&layout=donut&hide_border=false&title_color=fff&text_color=e6edf3&bg_color=0d1117&hide_title=true" alt="Top Languages" height=200/>
 </div>
+
+---
 
 ### 🚀 42 Cursus Syllabus
 - [basecamp](https://github.com/ygor-sena/42sp-piscine) → Fundamentals of Shell Script and C Programming.
