@@ -44,7 +44,7 @@
 ---
 <div align="center">
 	<img src="https://github-readme-stats.vercel.app/api?username=ygor-sena&theme=transparent&show_icons=true&layout=compact&line_height=25&title_color=fff&text_color=e6edf3&icon_color=9f9f9f&bg_color=0d1117&custom_title=My%20GitHub%20stats%20%26%20most%20used%20languages" alt="Ygor Sena's Github stats" height=200>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ygor-sena&langs_count=5&theme=transparent&layout=donut&hide_border=false&title_color=fff&text_color=e6edf3&bg_color=0d1117&hide_title=true" alt="Top Languages" height=200/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ygor-sena&langs_count=5&theme=transparent&layout=donut&hide_border=false&title_color=fff&text_color=e6edf3&bg_color=0d1117&hide_title=true&chart_width=200" alt="Top Languages" height=200/>
 </div>
 
 ---
