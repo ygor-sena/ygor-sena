@@ -28,6 +28,7 @@
 ![JavaScript](https://img.shields.io/badge/javascript-0d1117.svg?style=for-the-badge&logo=javascript&logoColor=white)
 
 ![Static Badge](https://img.shields.io/badge/management%20stacks-00008b?style=for-the-badge)  
+![GitHub Project](https://img.shields.io/badge/GitHub%20project-0d1117?style=for-the-badge&logo=github&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian-0d1117?style=for-the-badge&logo=Obsidian&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0d1117?style=for-the-badge&logo=Jira&logoColor=white)
 
