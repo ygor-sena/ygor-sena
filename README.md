@@ -22,6 +22,7 @@ I am currently learning backend development, data science, and creative programm
 ![C++](https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-0d1117?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/Shell_Script-0d1117?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-0d1117?style=for-the-badge&logo=django&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-0d1117.svg?style=for-the-badge&logo=html5&logoColor=white)
