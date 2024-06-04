@@ -49,8 +49,12 @@ I am currently learning backend development, data science, and creative programm
 
 ---
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=ygor-sena&theme=transparent&show_icons=true&layout=compact&line_height=25&title_color=fff&text_color=e6edf3&icon_color=9f9f9f&bg_color=0d1117&custom_title=My%20GitHub%20stats%20%26%20most%20used%20languages&width=250" alt="Ygor Sena's Github stats" height=195>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ygor-sena&langs_count=5&theme=transparent&layout=donut&hide_border=false&title_color=fff&text_color=e6edf3&bg_color=0d1117&hide_title=true&chart_width=200" alt="Top Languages" height=195/>
+    <img src="https://github-readme-stats.vercel.app/api?username=ygor-sena&theme=transparent&show_icons=true&layout=compact&line_height=25&title_color=fff&text_color=e6edf3&icon_color=9f9f9f&bg_color=0d1117&custom_title=My%20GitHub%20stats%20%26%20most%20used%20languages&width=250"
+            alt="Ygor Sena's Github stats"
+            height=195>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ygor-sena&langs_count=5&theme=transparent&layout=donut&hide_border=false&title_color=fff&text_color=e6edf3&bg_color=0d1117&hide_title=true&chart_width=200"
+            alt="Top Languages"
+            height=195/>
 </div>
 
 ---
@@ -66,9 +70,15 @@ I am currently learning backend development, data science, and creative programm
 
 </div>
 
-
 ---
-<div><p dir="auto"><em><i>Thank you so much for reading! This repository was made with 💚 by <a href="https://www.linkedin.com/in/ygor-sena/">Ygor G. Sena</a>.</em></i></font></div> <div align="right"><img alt="ygorsena's visitors" src="https://komarev.com/ghpvc/?username=ygorsena&color=blue&style=for-the-badge&label=visitors" />	</div></div><div>
+<div align="left">
+    <em>Thank you so much for reading! This repository was made with 💚 by <a href="https://www.linkedin.com/in/ygor-sena/">Ygor G. Sena</a>.</em>
+</div>
+<div align="right">
+    <img src="https://komarev.com/ghpvc/?username=ygorsena&color=555555&style=for-the-badge&label=visitors" alt="ygorsena's visitors" />
+</div>
+
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
