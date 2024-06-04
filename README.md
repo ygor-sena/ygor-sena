@@ -79,6 +79,7 @@
 
 ---
 ![Static Badge](https://img.shields.io/badge/contact%20me-%230077B5?style=for-the-badge)
+[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=Mail.Ru&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&to=ygor.sena@alumni.usp.br&tf=cm)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ygor-sena)
 [![Instagram](https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ygorgsena)
 [![Medium](https://img.shields.io/badge/Medium-0d1117?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ygorgsena)
