@@ -74,11 +74,7 @@ I am currently learning backend development, data science, and creative programm
 </div>
 
 ---
-<div align="left">
-    <em>Thank you so much for reading! This repository was made with 💚 by <a href="https://www.linkedin.com/in/ygor-sena/">Ygor G. Sena</a>.</em>
-</div>
-<div align="right">
-    <img src="https://komarev.com/ghpvc/?username=ygorsena&color=555555&style=for-the-badge&label=visitors" alt="ygorsena's visitors" />
-</div>
+<em>Thank you so much for reading! This repository was made with 💚 by <a href="https://www.linkedin.com/in/ygor-sena/">Ygor G. Sena</a>.</em>
+<img src="https://komarev.com/ghpvc/?username=ygorsena&color=555555&style=for-the-badge&label=visitors" align="right" alt="ygorsena's visitors" />
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
