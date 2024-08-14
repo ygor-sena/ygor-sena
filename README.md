@@ -10,7 +10,7 @@ I am currently learning backend development, data science, and creative programm
 ---
 
 - 🌱 Always learning
-- 💻 Software Enginner • Backend • DevOps
+- 💻 Software Enginner • Backend • DevOps • Data Science
 - 📜 [Certifications on Credly:](https://www.credly.com/users/ygor-sena/badges) CLP - C Certified Professional • Scrum Foundation Professional
 - 📐 Architect and Urban Planner from [USP](https://www5.usp.br/)
 - 🪁 Hobbies: photography, creative writing and hiking
